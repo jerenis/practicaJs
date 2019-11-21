@@ -1,0 +1,16 @@
+/* IMPORTADO O EXTERNO */
+h1{
+    color: rgb(163, 41, 41);
+}
+h2{
+    color: rgb(38, 38, 98);
+}
+p{
+    color: darkviolet;
+}
+#textUno{
+    color: dimgrey;
+}
+.listacolor{
+    color: gold;
+}
